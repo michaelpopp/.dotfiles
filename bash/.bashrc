@@ -60,5 +60,6 @@ alias gpull='git pull origin'
 alias gpush='git push origin'
 
 ### media
-alias mpvplay='mpv --vo=null --video=no --no-video --term-osd-bar --no-resume-playback ./'
-alias mpvshuf='mpv --vo=null --video=no --no-video --term-osd-bar --no-resume-playback --shuffle ./'
+alias pdf="mupdf"
+alias mpvplay="mpv --vo=null --video=no --no-video --term-osd-bar --no-resume-playback ./"
+alias mpvshuf="mpv --vo=null --video=no --no-video --term-osd-bar --no-resume-playback --shuffle ./"
