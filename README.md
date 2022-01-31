@@ -3,7 +3,7 @@
 
 ## information  
 os: [arch](https://archlinux.org/)    
-wm: [dwm](<https://dwm.suckless.org/)   
+wm: [dwm](https://dwm.suckless.org/)   
 terminal: [st](https://dwm.suckless.org/)  
 shell: [bash](https://www.gnu.org/software/bash/)  
 app launcher: [dmenu](https://tools.suckless.org/dmenu/)   
@@ -12,11 +12,11 @@ browser: [firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ## installation Guide
 1. clone the directory into the user's home directory  
-   * example: "git clone https://github.com/michaelpopp/.dotfiles.git /home/<user>/"  
+   * example: "git clone https://github.com/michaelpopp/.dotfiles.git /home/user-here/"  
 2. change into the root directory of the repository  
-   * example: "cd /home/<user>/.dotfiles"  
+   * example: "cd /home/user-here/.dotfiles"  
 3. install a configuration for a application with stow (or all configurations)  
-   * example: "stow <directory>" or "stow */"  
+   * example: "stow directory-name" or "stow */"  
 
 ## additional programs (pkgs)
 xdg-users-dirs base-devel dmenu xorg-server xorg-xsetroot xorg-xinit libx11
