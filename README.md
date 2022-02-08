@@ -19,7 +19,8 @@ browser: [firefox](https://www.mozilla.org/en-US/firefox/new/)
    * example: "stow dwm" or "stow */"  
 
 ## additional programs (pkgs)
-xdg-users-dirs base-devel dmenu xorg-server xorg-xsetroot xorg-xinit libx11
+xdg-user-dirs base-devel dmenu xorg-server xorg-xsetroot xorg-xinit libx11
 libxinerama libxft webkit2gtk neovim git stow man-db
 feh firefox rtorrent ranger unzip mpv gimp htop neofetch pulseaudio pulseaudio-alsa
-pulsemixer, adobe-source-han-sans-otc-fonts jq openvpn stow scrot mupdf
+pulsemixer, adobe-source-han-sans-otc-fonts jq openvpn stow scrot mupdf  
+net-tools tmux
