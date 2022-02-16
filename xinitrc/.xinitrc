@@ -1,3 +1,3 @@
-feh --bg-scale --no-fehbg ~/Pictures/wallpapers/nature/03-rails.jpg
-sh ~/.config/dwm/dwm-status.sh &
+feh --bg-scale --no-fehbg ~/Pictures/wallpapers/abstract/16-gruv-print.png
+slstatus &
 exec dwm
