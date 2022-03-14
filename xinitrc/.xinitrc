@@ -1,3 +1,3 @@
-feh --bg-scale --no-fehbg ~/Pictures/wallpapers/abstract/16-gruv-print.png
+feh --bg-scale --no-fehbg ~/Pictures/wallpapers/abstract/01-wavy.jpg
 slstatus &
 exec dwm
